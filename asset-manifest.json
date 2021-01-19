@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/To-Do-App-in-React/static/css/main.f171ecbb.chunk.css",
-    "main.js": "/To-Do-App-in-React/static/js/main.07247026.chunk.js",
-    "main.js.map": "/To-Do-App-in-React/static/js/main.07247026.chunk.js.map",
-    "runtime~main.js": "/To-Do-App-in-React/static/js/runtime~main.60884708.js",
-    "runtime~main.js.map": "/To-Do-App-in-React/static/js/runtime~main.60884708.js.map",
-    "static/js/2.b1a81836.chunk.js": "/To-Do-App-in-React/static/js/2.b1a81836.chunk.js",
-    "static/js/2.b1a81836.chunk.js.map": "/To-Do-App-in-React/static/js/2.b1a81836.chunk.js.map",
-    "index.html": "/To-Do-App-in-React/index.html",
-    "precache-manifest.683e23e22d9fecd3cd94db944fca9e5a.js": "/To-Do-App-in-React/precache-manifest.683e23e22d9fecd3cd94db944fca9e5a.js",
-    "service-worker.js": "/To-Do-App-in-React/service-worker.js",
-    "static/css/main.f171ecbb.chunk.css.map": "/To-Do-App-in-React/static/css/main.f171ecbb.chunk.css.map",
-    "static/media/logo.svg": "/To-Do-App-in-React/static/media/logo.5d5d9eef.svg"
+    "main.css": "/To-Do-App-in-React-code-master/static/css/main.f171ecbb.chunk.css",
+    "main.js": "/To-Do-App-in-React-code-master/static/js/main.4f2b2e9e.chunk.js",
+    "main.js.map": "/To-Do-App-in-React-code-master/static/js/main.4f2b2e9e.chunk.js.map",
+    "runtime~main.js": "/To-Do-App-in-React-code-master/static/js/runtime~main.6050c421.js",
+    "runtime~main.js.map": "/To-Do-App-in-React-code-master/static/js/runtime~main.6050c421.js.map",
+    "static/js/2.b1a81836.chunk.js": "/To-Do-App-in-React-code-master/static/js/2.b1a81836.chunk.js",
+    "static/js/2.b1a81836.chunk.js.map": "/To-Do-App-in-React-code-master/static/js/2.b1a81836.chunk.js.map",
+    "index.html": "/To-Do-App-in-React-code-master/index.html",
+    "precache-manifest.1afe84e67f4116565526377df364f995.js": "/To-Do-App-in-React-code-master/precache-manifest.1afe84e67f4116565526377df364f995.js",
+    "service-worker.js": "/To-Do-App-in-React-code-master/service-worker.js",
+    "static/css/main.f171ecbb.chunk.css.map": "/To-Do-App-in-React-code-master/static/css/main.f171ecbb.chunk.css.map",
+    "static/media/logo.svg": "/To-Do-App-in-React-code-master/static/media/logo.5d5d9eef.svg"
   }
 }
